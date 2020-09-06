@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/vitaminopedia/static/js/main.65c619be.chunk.js",
+    "main.js.map": "/vitaminopedia/static/js/main.65c619be.chunk.js.map",
+    "runtime-main.js": "/vitaminopedia/static/js/runtime-main.b33604f0.js",
+    "runtime-main.js.map": "/vitaminopedia/static/js/runtime-main.b33604f0.js.map",
+    "static/js/2.76fca339.chunk.js": "/vitaminopedia/static/js/2.76fca339.chunk.js",
+    "static/js/2.76fca339.chunk.js.map": "/vitaminopedia/static/js/2.76fca339.chunk.js.map",
+    "index.html": "/vitaminopedia/index.html",
+    "precache-manifest.e634f63720a696ff5ab7aaf2c41a1f57.js": "/vitaminopedia/precache-manifest.e634f63720a696ff5ab7aaf2c41a1f57.js",
+    "service-worker.js": "/vitaminopedia/service-worker.js",
+    "static/js/2.76fca339.chunk.js.LICENSE.txt": "/vitaminopedia/static/js/2.76fca339.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b33604f0.js",
+    "static/js/2.76fca339.chunk.js",
+    "static/js/main.65c619be.chunk.js"
+  ]
+}
